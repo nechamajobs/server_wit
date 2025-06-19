@@ -49,3 +49,9 @@ Histogram – Distribution of function lengths
  Pie Chart – Number of issues by type
  
  Bar Chart – Number of issues by file
+
+ •	Folder structure of the project
+ static /histogram.png issues_pie.png issues_bar.png
+ analyze
+ diagram
+ Main
